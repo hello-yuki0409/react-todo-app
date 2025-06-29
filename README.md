@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello! there I'm Urata!
+  Hello! I'm Urata!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 </h1>
 <p align="left">
