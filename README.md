@@ -15,7 +15,7 @@
 
 - 🧑‍💻 I'm a backend engineer.
 - 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @username](https://twitter.com/username)
+- 📫 How to reach me: [Twitter - @weblogv2](https://x.com/weblogv2)
 <br>
 
 
