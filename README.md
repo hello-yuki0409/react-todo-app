@@ -1,4 +1,7 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Hello! I'm Urata
+<h1 align="center">
+  Hello! there I'm Urata!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
+</h1>
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hello-yuki0409&layout=compact&show_icons=true&theme=chartreuse-dark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hello-yuki0409&theme=chartreuse-dark&show_icons=true" />
