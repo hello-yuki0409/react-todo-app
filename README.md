@@ -13,8 +13,8 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## Hi there
 
-- 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning go!
+- 🧑‍💻 I'm a engineer.
+- 🌱 I’m currently learning React!
 - 📫 How to reach me: [Twitter - @weblogv2](https://x.com/weblogv2)
 <br>
 
