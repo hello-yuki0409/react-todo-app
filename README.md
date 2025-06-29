@@ -29,6 +29,8 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,aws" />
 <br>
 
+## I wanna ... 
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=Python,GO" />
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
